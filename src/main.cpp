@@ -19,8 +19,6 @@ static RM67162 tft;
 static LGFX_ST7789_SPI tft;
 #endif
 
-#include "gui.h"
-
 lv_disp_drv_t _disp_drv;
 lv_disp_draw_buf_t _disp_buf;
 
